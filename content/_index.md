@@ -1,5 +1,5 @@
 ---
-title: 🪴 My digital garden thanks to Quartz 3.2
+title: 🪴 My digital garden thanks to Quartz 4.0
 ---
 
 # 👍 Des conseils...pour réussir 
@@ -30,7 +30,7 @@ title: 🪴 My digital garden thanks to Quartz 3.2
 
 
 # 🪴 How to use Quartz?
-- If you want to know how to use Quartz, go to [this page](index_depart.md).
+- If you want to know how to use Quartz, go to [this page](https://quartz.jzhao.xyz/).
 
 
 ![](https://www.pearltrees.com/s/file/view/274150552/)

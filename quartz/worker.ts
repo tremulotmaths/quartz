@@ -1,6 +1,6 @@
 import sourceMapSupport from "source-map-support"
 sourceMapSupport.install(options)
-import cfg from "../quartz.config"
+import cfg from "../quartz.config_old"
 import { Argv, BuildCtx } from "./util/ctx"
 import { FilePath, FullSlug } from "./util/path"
 import { createFileParser, createProcessor } from "./processors/parse"
