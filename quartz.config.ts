@@ -3,13 +3,13 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "🪴 Site de D.TREMULOT avec Quartz 4.0",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "https://tremulotmaths.github.io/quartz/",
+    baseUrl: "tremulotmaths.github.io/quartz",
     ignorePatterns: ["private", "templates"],
     theme: {
       typography: {
