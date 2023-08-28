@@ -8,3 +8,5 @@
 
 -> **Des jeux permettant de travailler la langue**
 
+-> Des flashcards pour travailler la langue à travers les mathématiques ou non
+https://bit.ly/decks_of_flashcards

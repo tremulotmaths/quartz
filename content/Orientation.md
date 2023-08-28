@@ -2,7 +2,7 @@
 
 ## Année de Terminale
 
--> Les étapes dans les choix pour le supérieur : [terminales2021-2022](https://www.terminales2021-2022.fr/)
+-> Les étapes dans les choix pour le supérieur : [terminales2022-2023](https://www.terminales2022-2023.fr/)
 
 -> Le site de [![Parcoursup](https://www.parcoursup.fr/images/LOGO/logo_parcoursup_long.svg)](https://www.parcoursup.fr/) avec notamment le [calendrier](https://www.parcoursup.fr/index.php?desc=calendrier) de la procédure.
 

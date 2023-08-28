@@ -7,6 +7,8 @@
 - https://franche-comte.apmep.fr/AMC/index.html
 - https://sacado.xyz
 - https://tremulotmaths.github.io/remiseaniveau/remiseaniveau.html
+- https://mathokare.re/
+- https://maths-au-quotidien.fr/automaths/
 - https://barbazo.kwyk.fr//
 - http://lycee-valin.fr/maths/exercices_en_ligne/
 - https://numeres.net/sesamath/magnard-220720/1re-tle_livret_2022.html
@@ -15,6 +17,7 @@
 
 ## Activités mentales
 - https://franche-comte.apmep.fr/AMC/index.html
+- https://maths-au-quotidien.fr/automaths/
 
 ## Ressources (cours/exercices)
 - (ChingAtome](https://chingmath.fr/classe/tle-spe)
