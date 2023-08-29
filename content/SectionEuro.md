@@ -1,4 +1,4 @@
-# 🇬‍🇧 📈 Section européenne Anglais-Mathématiques 📈 🇬‍🇧
+# 🇬‍🇧 ♾️ Section européenne Anglais-Mathématiques ♾️ 🇬‍🇧
 
 - **Vocabulaire**
 	- Un eBook du vocabulaire spécifique mathématique et scientifique : [The glossary](https://www.calameo.com/read/006275542e883766b133f)

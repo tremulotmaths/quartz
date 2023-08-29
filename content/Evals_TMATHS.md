@@ -1,15 +1,15 @@
 # 🎆 Évaluations du groupe TMATHS... 🎆
 
 ## DS 1 👌
-- Date : 
+- Date : Jeudi 21/09
 - Programme :
 
 ## DS 2 👌👌
-- Date : 
+- Date : Jeudi 12/10
 - Programme : 
 
 ## DS 3 👌👌👌
-- Date : 
+- Date : Jeudi 16/11
 - Programme : 
 
 ## DS 4 👌👌👌👌

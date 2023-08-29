@@ -1,6 +1,7 @@
-# 📈 Spécialité Mathématiques (Terminale)
+# ♾️ Spécialité Mathématiques (Terminale)
 
 - **Contenus mathématiques**
+	- [[Révisions d'été]]
 	- Révisions de calcul numérique et algébrique
 		- [Des exercices en ligne avec une aide et une correction](https://tremulotmaths.github.io/remiseaniveau/remiseaniveau.html)
 		- Les exercices de calcul des vacances de la Toussaint

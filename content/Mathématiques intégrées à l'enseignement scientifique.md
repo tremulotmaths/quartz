@@ -1,4 +1,4 @@
-# 📈 Mathématiques intégrées à l'enseignement scientifique (1ère)
+# ✨ Mathématiques intégrées à l'enseignement scientifique (1ère)
 
 - **Contenus mathématiques**
 	- Révisions de calcul numérique et algébrique

@@ -1,5 +1,6 @@
-# 💻 Spécialité NSI
+# </> Spécialité NSI
 
+- [[Révisions d'été]]
 - **Python**
 	- Les [bases en Python](http://193.49.249.136:20180/~web/mpsi/cours.php)
 	- Des activités pour réviser [[Python par thèmes]]
