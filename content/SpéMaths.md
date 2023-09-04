@@ -12,7 +12,7 @@
 		- Les [Savoir-faires par chapitre](https://prism-floor-4b0.notion.site/Savoirs-faire-par-chapitre-f786fcf015364479b8574b7c996f037e)
 		- Les [annales du BAC du site de l'APMEP](https://www.apmep.fr/Annales-examens-Brevet-CAP-BEP-Bac-BTS-et-concours-niveau-Terminale)
 		- [[Quelques pistes par chapitre pour réviser en Spé Maths]]
-		- Les [exercices par thème du site ChingAtome](https://chingatome.fr/)
+		- Les [exercices par thème du site ChingMath](https://chingmath.fr/) (ancien ChingAtome)
 		- Le [parcours de révisions sur le site Sacado](https://sacado.xyz/group/eaa8618a)
 		- Le [cahier d'exercices de Sesamath](https://manuel.sesamath.net/numerique/?ouvrage=cah1ere_tle_spe_2022)
 	- Des ressources pour le [[Supérieur]]

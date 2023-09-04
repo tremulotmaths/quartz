@@ -3,7 +3,7 @@
 - https://www.apmep.fr
 
 ## Exercices en ligne
-- https://chingmath.fr/classe/tle-spe
+- https://chingmath.fr/
 - https://franche-comte.apmep.fr/AMC/index.html
 - https://sacado.xyz
 - https://tremulotmaths.github.io/remiseaniveau/remiseaniveau.html
@@ -20,7 +20,7 @@
 - https://maths-au-quotidien.fr/automaths/
 
 ## Ressources (cours/exercices)
-- (ChingAtome](https://chingmath.fr/classe/tle-spe)
+- [ChingMaths](https://chingmath.fr/) (ancien ChingAtome)
 - [Maths au LFKL](http://maths-lfkl.e-monsite.com/) 
 - Yvan Monka : https://maths-et-tiques.fr
 - Alexandre Morgan : https://www.youtube.com/channel/UCpbU7mXDloketKRA92AcW7Q
