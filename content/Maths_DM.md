@@ -6,8 +6,6 @@
 
 ## ♾️ Exercice 1
 
-### Partie A
-
 ### 1.
 #### ❓Question
 
@@ -44,52 +42,23 @@ Dans la question 2. e) du DM 1, il est demandé d’interpréter le résultat de
 Tu as bien compris.
 
 
-### Partie B
 
-### 1. 
-#### ❓Question
-####  💡 Réponse
-
-### 2. a)
-#### ❓Question
-####  💡 Réponse
-
-### 2. b)
-#### ❓Question
-####  💡 Réponse
-
-### 2. c)
-#### ❓Question
-####  💡 Réponse
 
 
 ## ♾️ Exercice 2
 
-### Partie A
-
-### 1.
-#### ❓Question
-#### 💡 Réponse
-
-### 2.
-#### ❓Question
-#### 💡 Réponse
-
-### 3.
-#### ❓Question
-#### 💡 Réponse
-
-### Partie B
-
-### 1.
-#### ❓Question
-#### 💡 Réponse
-
-### 2. a)
-#### ❓Question
-#### 💡 Réponse
-
-### 2. b)
 #### ❓Question
 
-#### 💡 Réponse
+Est ce que dans l'exercice 2 du dm de maths, toutes les lignes de code doivent être utilisées ?  
+Et quant aux questions suivantes ( fonction cube etc..) doivent-elles êtres faites sur python?
+
+####  💡 Réponse
+
+Non, toutes les lignes ne sont pas à utiliser.
+Et tout l'exercice doit bien être traité avec Python.
+
+## ♾️ Exercice 3
+
+#### ❓Question
+
+####  💡 Réponse
