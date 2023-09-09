@@ -10,7 +10,14 @@
 
 ### 1.
 #### ❓Question
+
+J'utilise la formule $y=f'(a)(x-a)+f(a)$, avec $a=1$. Et $f'(x)= \dfrac{1}{2\sqrt{1}}$.
+Je ne sais pas si je suis censé faire intervenir la formule avec $h$ et le faire tendre vers 0 ou non
 ####  💡 Réponse
+La formule est correcte.
+Concernant la dérivée, j'imagine que tu veux dire $f'(x)=\dfrac{1}{2\sqrt{x}}$ ou $f'(1)=\dfrac{1}{2\sqrt{1}}$...mais pas un mix des deux.
+On a effectivement $f'(1)=\dfrac{1}{2\sqrt{1}}$, et comme $\sqrt{1}=1$...on obtient $f'(1)=\dfrac{1}{2}$.
+Comme $f\left(\dfrac{1}{2}\right)$ ce simplifie bien également...tu devrais trouver une équation de tangente proche...de ce qui apparaît dans la question **2.**
 
 ### 2. a)
 #### ❓Question
