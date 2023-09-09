@@ -16,7 +16,7 @@
 		- Le [parcours de révisions sur le site Sacado](https://sacado.xyz/group/eaa8618a)
 		- Le [cahier d'exercices de Sesamath](https://manuel.sesamath.net/numerique/?ouvrage=cah1ere_tle_spe_2022)
 	- Des ressources pour le [[Supérieur]]
-	- Automatismes Spécialité Maths 2023-2024
+	- [Automatismes Spécialité Maths 2023-2024](https://prism-floor-4b0.notion.site/Sp-Maths-2023-2024-d1c98c3eafb74109a6f2da73b82e3023?pvs=4)
 
 - **Contenus algorithmiques**
 	- Les [bases en Python](http://193.49.249.136:20180/~web/mpsi/cours.php)

@@ -5,9 +5,8 @@
 		- [Des exercices en ligne avec une aide et une correction](https://tremulotmaths.github.io/remiseaniveau/remiseaniveau.html)
 
 	- L'aide pour le devoir maison en cours : 
-	- Aide pour la préparation des DS et la préparation au BAC
-		- 
-	- Automatismes MES 2023-2024
+	- Aide pour la préparation des DS
+	- [Automatismes MES 2023-2024](https://prism-floor-4b0.notion.site/Maths-int-gr-es-l-enseignement-scientifique-58fb316950264a06b720ccb2bd1a0a6d?pvs=4)
 
 - **Contenus algorithmiques**
 	- Les [bases en Python](http://193.49.249.136:20180/~web/mpsi/cours.php)
