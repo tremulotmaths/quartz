@@ -35,6 +35,15 @@ Comme $f\left(\dfrac{1}{2}\right)$ ce simplifie bien également...tu devrais tro
 #### ❓Question
 ####  💡 Réponse
 
+### 2. e)
+#### ❓Question
+
+Dans la question 2. e) du DM 1, il est demandé d’interpréter le résultat de la question 2. d) en termes de positions relatives entre la courbe $\mathcal{C}$ et la tangente $\mathcal{T}$. C’est à dire qu’il faut déterminer la position de la tangente par rapport à sa courbe à l’aide du signe de $d(x)$ ? J’ai peut être mal compris la question mais si je l’ai bien compris, je ne sait pas comment m’y prendre…
+####  💡 Réponse
+
+Tu as bien compris.
+
+
 ### Partie B
 
 ### 1. 
