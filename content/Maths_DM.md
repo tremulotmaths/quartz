@@ -41,8 +41,19 @@ Dans la question 2. e) du DM 1, il est demandé d’interpréter le résultat de
 
 Tu as bien compris.
 
+#### ❓Question
 
+Je ne comprends pas comment répondre à la question 2)e) de l’exercice 1. pouvez vous m’aider ?
+####  💡 Réponse
 
+$d(x)$ a été défini comme la différence entre $f(x)$ et $\dfrac{1}{2}x+\dfrac{1}{2}$ (ce qui correspond à la fonction affine représentée par la tangente $\mathcal{T}$).
+Or le signe de la différence entre deux quantités permet de déterminer la quantité qui est supérieure à l'autre.
+Autrement dit, avec deux quantités $A$ et $B$, 
+$A-B>0\Leftrightarrow A>B$.
+Ici, $d(x)>0\Leftrightarrow f(x)-\left(\dfrac{1}{2}x+\dfrac{1}{2}\right)>0\Leftrightarrow f(x)>\dfrac{1}{2}x+\dfrac{1}{2}$,
+et $d(x)<0\Leftrightarrow f(x)-\left(\dfrac{1}{2}x+\dfrac{1}{2}\right)<0\Leftrightarrow f(x)<\dfrac{1}{2}x+\dfrac{1}{2}$.
+Or lorsque $f(x)>\dfrac{1}{2}x+\dfrac{1}{2}$ sur un intervalle $I$, la courbe de $f$ est au-dessus de la droite $\mathcal{T}$ sur cet intervalle.
+De même, lorsque $f(x)<\dfrac{1}{2}x+\dfrac{1}{2}$ sur un intervalle $I$, la courbe de $f$ est au-dessous de la droite $\mathcal{T}$ sur cet intervalle.
 
 
 ## ♾️ Exercice 2
