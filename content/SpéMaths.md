@@ -8,6 +8,7 @@
 		- Les exercices de calcul des vacances de Noël
 		- Les exercices de calcul des vacances d'hiver
 	- L'aide pour le devoir maison en cours : [Maths DM](Maths_DM.md)
+	- L'aide pour les exercices en chercher à la maison : [[Maths_exos]]
 	- Aide pour la préparation des DS et la préparation au BAC
 		- Les [Savoir-faires par chapitre](https://prism-floor-4b0.notion.site/Savoirs-faire-par-chapitre-f786fcf015364479b8574b7c996f037e)
 		- Les [annales du BAC du site de l'APMEP](https://www.apmep.fr/Annales-examens-Brevet-CAP-BEP-Bac-BTS-et-concours-niveau-Terminale)
