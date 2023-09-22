@@ -30,8 +30,8 @@ Mais je ne sais pas si c'est correct.
 
 ####  💡 Réponse
 
-- Tu peux vérifier en copiant ce code dans le notebook Jupyter sur Capytale (code 07cf-1876511) et en exécutant le code.
-- Ta première fonction n'est pas tout à fait correct car `range(a, b)` donne les entiers `n` compris entre `a` et `b`...mais `a` est **inclus** et `b`...**exclu**.
+- Tu peux vérifier en copiant ce code dans le notebook Jupyter sur Capytale (code 07cf-1876511) et en exécutant le code. J'ai d'ailleurs été regarder ton code et j'ai ajouté un commentaire dans ta première zone de code.
+- Ta première fonction n'est pas tout à fait correcte car `range(a, b)` donne les entiers `n` compris entre `a` et `b`...mais `a` est **inclus** et `b`...**exclu**.
 - Donc pour générer les entiers de $1$ à `n` (inclus), on écrit `range(1, n+1)`.
 - Pour ta deuxième fonction, celle-ci doit s'appeler `u`. Le code commence donc par : `def u(n):`
 - Ensuite il est demandé d'utiliser la fonction Python `sum` qui permet d'obtenir la somme des termes d'une liste. Comme dans l'expression de $u_n$, on rencontre la somme des carrés des entiers et comme la fonction `liste_carrés` donne justement la liste des carrées des entiers...
