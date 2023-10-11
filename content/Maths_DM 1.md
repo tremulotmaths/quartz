@@ -21,17 +21,24 @@
 Mes résultats ne me semblent pas cohérents pour l'affirmation 2. J'aimerais être sûr d'un point, l'ensemble des calculs rénaux est bien la somme des deux totaux ?
 ####  💡 Réponse
 L'ensemble des calculs rénaux est bien la somme des deux totaux.
+
 Si tu as un doute sur ce que tu as fait, tu peux m'envoyer une photo de ta copie/ton brouillon.
 
 #### ❓Question
 J'aimerais savoir s'il est possible d'additionner deux pourcentages ou si l'on peut quand on a deux tableaux additioner leur données ensemble pour ne faire qu'un seul et même tableau
 ####  💡 Réponse
 On ne peut additionner des pourcentages que si ceux-ci portent sur le même groupe.
+
 Un exemple :
+
 Imaginons que 70% des garçons de votre classe suivent l'Anglais en LV1 et 80% des filles font de même.
+
 Ajouter ces deux pourcentages n'aurait aucun sens puisqu'ils ne portent pas sur la même population.
+
 Un autre exemple :
+
 Imaginons que 70% des élèves d'une classe soient demi-pensionnaires et 20% des élèves de la **même** classe sont externes.
+
 En ajoutant ces deux pourcentages (qui portent sur la même population), on obtient le pourcentage d'élèves qui ne sont pas internes.
 
 Par contre, ajouter les effectifs contenus dans deux tableaux pour regrouper les données est possible lorsque les catégories sont les mêmes.
