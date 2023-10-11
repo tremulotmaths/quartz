@@ -21,7 +21,7 @@
 Mes résultats ne me semblent pas cohérents pour l'affirmation 2. J'aimerais être sûr d'un point, l'ensemble des calculs rénaux est bien la somme des deux totaux ?
 ####  💡 Réponse
 L'ensemble des calculs rénaux est bien la somme des deux totaux.
-
+Si tu as un doute sur ce que tu as fait, tu peux m'envoyer une photo de ta copie/ton brouillon.
 ### 3.
 #### ❓Question
 
