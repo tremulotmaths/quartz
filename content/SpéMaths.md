@@ -4,7 +4,7 @@
 	- [[Révisions d'été]]
 	- Révisions de calcul numérique et algébrique
 		- [Des exercices en ligne avec une aide et une correction](https://tremulotmaths.github.io/remiseaniveau/remiseaniveau.html)
-		- Les exercices de calcul des vacances de la Toussaint
+		- [Les exercices de calcul des vacances de la Toussaint](https://prism-floor-4b0.notion.site/R-visions-de-calcul-num-rique-et-alg-brique-31edf68816094003ab413b67eecf8c02?pvs=4)
 		- Les exercices de calcul des vacances de Noël
 		- Les exercices de calcul des vacances d'hiver
 	- L'aide pour le devoir maison en cours : [Maths DM](Maths_DM.md)
