@@ -7,6 +7,7 @@
 	- L'aide pour le devoir maison en cours : [[Maths_DM 1]]
 	- Aide pour la préparation des DS
 	- [Automatismes MES 2023-2024](https://prism-floor-4b0.notion.site/Maths-int-gr-es-l-enseignement-scientifique-58fb316950264a06b720ccb2bd1a0a6d?pvs=4)
+	- Des rappels sur le [[Tableur et formules]]
 
 - **Contenus algorithmiques**
 	- Les [bases en Python](http://193.49.249.136:20180/~web/mpsi/cours.php)
