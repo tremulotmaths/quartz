@@ -41,3 +41,5 @@
 [[Savoir-faires par chapitre]]
 
 
+## Des liens...en vrac
+https://www.symbaloo.com/shared/AAAAAfohbtMAA41-4namKA==

@@ -8,7 +8,6 @@
 
 -> **Des ressources** : [[Euro section resources]]
 
-
 ## Langages et programmation
 
 -> **Des éditeurs en ligne** : [[Éditeurs en ligne ou non]]
@@ -17,6 +16,5 @@
 
 -> **De l'aide sur le langage Python** : [[Aide pour Python]]
 
-
-
+## NSI
 
