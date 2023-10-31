@@ -8,10 +8,34 @@
 
 ### 1. a)
 #### ❓Question
-
+Je ne comprends pas comment remplir l'algorithme python à la question 1. a)
 
 ####  💡 Réponse
+Cette fonction python doit permettre de calculer les termes de la suite $(T_n)$.
 
+Autrement dit, `T(n)` doit renvoyer la valeur $T_n$.
+
+Comme la suite $(T_n)$ est définie par $\begin{cases}T_0=0,9\\T_{n+1}=T_n-0,1T_n^2\end{cases}$ la fonction python `T(n)` doit calculer le bon terme de la suite.
+
+La suite étant définie par récurrence, si l'on souhaite calculer $T_{10}$ (avec `T(10)`), on doit connaître la valeur de $T_9$ puisque $T_{10}=T_9-0,1T_9^2$.
+
+Or pour calculer $T_9$, on connaître $T_8$, etc.
+
+Par conséquent, pour calculer $T_{10}$, on part de la valeur de $T_0$ qui est connue.
+
+Grâce à celle-ci, on calcule $T_1$.
+
+Grâce à la valeur de $T_1$, on calcule $T_2$.
+
+etc.
+
+De proche en proche, on obtient $T_{10}$.
+
+La fonction python proposée suit le même principe :
+
+- on initialise `T` (variable qui va successivement contenir les valeurs $T_n$ jusqu'à celle cherchée) à $T_0$, c'est-à-dire `0.9`
+- on écrit une boucle permettant de calculer de proche en proche les valeurs successives de $T_n$ jusqu'à celle cherchée
+- on sort de la boucle quand on a calculé la valeur dont l'indice a été donné en paramètre de la fonction python
 
 ### 1. b)
 #### ❓Question
