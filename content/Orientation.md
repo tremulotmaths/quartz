@@ -2,8 +2,6 @@
 
 ## Année de Terminale
 
--> Les étapes dans les choix pour le supérieur : [terminales2022-2023](https://www.terminales2022-2023.fr/)
-
 -> Le site de [![Parcoursup](https://www.parcoursup.fr/images/LOGO/logo_parcoursup_long.svg)](https://www.parcoursup.fr/) avec notamment le [calendrier](https://www.parcoursup.fr/index.php?desc=calendrier) de la procédure.
 
 -> Un [padlet de Mme Fargeaudou](https://padlet.com/fargeaudou_aurelie/t5wakvmjdxgd) qui réunit de nombreuses informations et qui est mis à jour régulièrement (avec notamment les dates des Portes Ouvertes)
