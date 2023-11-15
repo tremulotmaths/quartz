@@ -10,7 +10,7 @@
 
 
 ## Dates de salons et Portes Ouvertes
--> Les dates à ne pas râter ([[Portes ouvertes et forums 2022-2023]]) 
+-> Les dates à ne pas râter ([[Portes ouvertes et forums 2023-2024]]) 
 
 
 ## Préparations à certains concours
