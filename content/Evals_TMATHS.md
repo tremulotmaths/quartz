@@ -13,19 +13,19 @@
 - Programme : Chapitres 1, 2 et 4
 
 ## DS 4 👌👌👌👌
-- Date : 
+- Date : Jeudi 14/12
 - Programme : 
 
 ## DS 5 👌👌👌👌👌 : BAC Blanc !!!!!!!!!!!!!!
-- Date : 
+- Date : Jeudi 18/01
 - Programme : 
 
 ## DS 6 👌👌👌👌👌👌
-- Date : 
+- Date : Jeudi 08/02
 - Programme : 
 
 ## DS 7 🎆
-- Date : 
+- Date : Bac Blanc semaine du 11/03
 - Programme : 
 
 ## DS 8 🎆🎆
