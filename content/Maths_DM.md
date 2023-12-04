@@ -38,7 +38,7 @@ $f'(x)=\dfrac{-x-3+x+4}{(x+3)^2}$
 
 $f'(x)=\dfrac{1}{(x+3)^2}$
 
-Ainsi $f'(x)>0$ sur $I$ et...la fonction $f$ est bien (strictement) croissante sr $I$...
+Ainsi $f'(x)>0$ sur $I$ et...la fonction $f$ est bien (strictement) croissante sur $I$...
 
 J'imagine que tu as dû décelé ton erreur (de signe ?).
 
