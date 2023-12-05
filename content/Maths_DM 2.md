@@ -43,8 +43,17 @@
 
 ### 4.
 #### ❓Question
-
+Je n’ai pas compris la question 4 de l'exercice p 66.
 ####  💡 Réponse
+Si on continue à modéliser la population française avec la suite $u$, la population en 2029 correspond à $u_{14}$.
+
+L'affirmation indique que l'on devrait avoir $u_{14}>67$, mais $u_{13}<67$.
+
+Or $u_{14}=...$
+
+et $u_{13}=...$
+
+Je vous laisse effectuer les calculs puis répondre à la question.
 
 ### 5.
 #### ❓Question
@@ -94,6 +103,16 @@ Je te laisse terminer.
 
 ### 4.
 #### ❓Question
-
+Je n’ai pas compris la question 4  de l'ex 95 p 67.
 ####  💡 Réponse
+On attend ici les formules à saisir dans les cellules d'une feuille de calcul d'un tableur.
 
+La suite $(D_n)$ étant arithmétique de raison $420$, on a $D_n=D_{n-1}+420$ pour tout $n\in\mathbb{N}^{\star}$.
+
+Ainsi, dans la cellule `C2`, on peut saisir la formule... (on doit simplement ajouter 420 à la valeur précédente).
+
+**Rappel :** Les formules sur tableur commence par `=`.
+
+La définition de la suite $(T_n)$ indique que, pour tout $n\in\mathbb{N}^{\star}$, $T_n=T_{n-1}+D_n$.
+
+Une formule  qui convient pour la cellule `C3` est donc...
