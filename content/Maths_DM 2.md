@@ -23,8 +23,11 @@
 
 ### 2. c.
 #### ❓Question
-
+Pour la question 2.c de l'exercice page 66 , de quelle façon dois-je justifier $u(n)$ ?
 ####  💡 Réponse
+Il y a juste à indiquer que, grâce à la question précédente, on sait que la suite $(u_n)$ est arithmétique et on connaît sa raison.
+
+La propriété 2 du cours permet alors de donner la forme cherchée.
 
 ### 3. a.
 
