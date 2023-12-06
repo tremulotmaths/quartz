@@ -44,8 +44,23 @@ J'imagine que tu as dû décelé ton erreur (de signe ?).
 
 ### 4.
 #### ❓Question
-
+Je suis bloqué à la récurrence (question 4 ex1) je connais mon point de départ, mon point d'arrivée mais je ne sais pas ou aller.
 ####  💡 Réponse
+Pour l'hérédité...elle est très classique. Il y a juste à appliquer $f$ aux membres des inégalités :
+
+Supposons que $\mathcal{P}_n$ est vraie, i.e. $-2\leq u_{n+1}\leq u_n$.
+
+Montrons qu'alors $\mathcal{P}_{n+1}$ est vraie, i.e. $-2\leq u_{n+2}\leq u_{n+1}$.
+
+Par hypothèse de récurrence, $-2\leq u_{n+1}\leq u_n$.
+
+La fonction $f$ étant (strictement) croissante sur l'intervalle $]-3;+\infty[$, on en déduit :
+
+$f(-2)\leq f(u_{n+1})\leq f(u_n)$
+
+...
+
+Je te laisse terminer.
 
 ### 5.
 #### ❓Question
