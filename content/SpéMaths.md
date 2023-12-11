@@ -11,6 +11,7 @@
 	- L'aide pour les exercices en chercher à la maison : [[Maths_exos]]
 	- Aide pour la préparation des DS et la préparation au BAC
 		- Les [Savoir-faires par chapitre](https://prism-floor-4b0.notion.site/Savoirs-faire-par-chapitre-f786fcf015364479b8574b7c996f037e)
+		- Les [énoncés et corrigés des exercices des séances de soutien](https://prism-floor-4b0.notion.site/S-ances-de-soutien-8c57fe126de24844b398b543d3d9b869?pvs=4)
 		- Les [annales du BAC du site de l'APMEP](https://www.apmep.fr/Annales-examens-Brevet-CAP-BEP-Bac-BTS-et-concours-niveau-Terminale)
 		- [[Quelques pistes par chapitre pour réviser en Spé Maths]]
 		- Les [exercices par thème du site ChingMath](https://chingmath.fr/) (ancien ChingAtome)
