@@ -14,19 +14,19 @@
 
 ## DS 4 👌👌👌👌
 - Date : Jeudi 14/12
-- Programme : 
+- Programme : Chapitres 1, 3, 5, 6
 
-## DS 5 👌👌👌👌👌 : BAC Blanc !!!!!!!!!!!!!!
+## DS 5 👌👌👌👌👌
 - Date : Jeudi 18/01
-- Programme : 
+- Programme : Chapitres 1 à 7 (Priorité : suites et espace)
 
 ## DS 6 👌👌👌👌👌👌
 - Date : Jeudi 08/02
-- Programme : 
+- Programme : Tout depuis le début (Priorité : suites et fonctions)
 
 ## DS 7 🎆
 - Date : Bac Blanc semaine du 11/03
-- Programme : 
+- Programme : Tout depuis le début
 
 ## DS 8 🎆🎆
 - Date : 
