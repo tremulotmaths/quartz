@@ -59,6 +59,7 @@ Après avoir montrer que l’équation $g(x)=1$ admet une unique solution alpha,
 Tu as dû obtenir que
 - $\alpha \in [0;+\infty[$
 - la fonction $g$ est croissante sur $[0;+\infty[$
+
 Donc montrer que $\alpha>\dfrac{1}{2}$ est équivalent à montrer que $g(\alpha)>g\left(\dfrac{1}{2}\right)$.
 Comme $g(\alpha)=1$, par définition de $\alpha$...je te laisse terminer et trouver ce qui te reste à calculer.
 
