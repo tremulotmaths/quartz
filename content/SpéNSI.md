@@ -10,6 +10,8 @@
 	- Un [notebook de révision de Python](https://mybinder.org/v2/gh/tremulotmaths/notebookspython/master)
 	
 - Aide pour préparer les évaluations et le BAC
+	- https://chinginfo.fr/classe/1re-nsi (pour les élèves de 1ère)
+	- https://chinginfo.fr/classe/tle-nsi (pour les élèves de Terminale)
 	- https://progalgo.fr/
 	- https://colibri.unistra.fr/ (Merci à Ibrahima pour le tuyau !)
 	- https://lewebpedagogique.com/dlaporte/corrections-epreuves-pratiques-2021-nsi/
