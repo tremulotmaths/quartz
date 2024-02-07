@@ -16,6 +16,7 @@
 		- Les [annales du BAC du site de l'APMEP](https://www.apmep.fr/Annales-examens-Brevet-CAP-BEP-Bac-BTS-et-concours-niveau-Terminale)
 		- [[Quelques pistes par chapitre pour réviser en Spé Maths]]
 		- Les [exercices par thème du site ChingMath](https://chingmath.fr/) (ancien ChingAtome)
+		- Les [cours et exercices du site Mathoutils.fr](https://www.mathoutils.fr/cours-et-exercices/terminale-generale/)
 		- Le [parcours de révisions sur le site Sacado](https://sacado.xyz/group/eaa8618a)
 		- Le [cahier d'exercices de Sesamath](https://manuel.sesamath.net/numerique/?ouvrage=cah1ere_tle_spe_2022)
 	- Des ressources pour le [[Supérieur]]
