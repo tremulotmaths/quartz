@@ -6,19 +6,19 @@ title: 🪴 My digital garden thanks to Quartz 4.0
 - Des [[Conseils]]...qui peuvent servir
 - Des infos sur l'[[Orientation]] 🎓
 
-# 🌴 Révisions d'été
+# 🌴 Révisions d'été (entrée en 2nde, 1ère ou Terminale)
 [[Révisions d'été]]
 
-# ✨ Mathématiques intégrées à l'enseignement scientifique
+# ✨ Mathématiques intégrées à l'enseignement scientifique (1ère)
 - La page des [[Mathématiques intégrées à l'enseignement scientifique]]
 
-# ♾️ Spécialité Mathématiques 
-- La page de la [[SpéMaths]]
+# ♾️ Spécialité Mathématiques (1ère et Terminale) et Mathématiques complémentaires 
+- La page de la [[SpéMathsEtMathsComp]]
 
-# </> Spécialité NSI
+# </> Spécialité NSI (1ère et Terminale)
 - La page de la [[SpéNSI]]
 
-# 🇬‍🇧 ♾️ Section européenne Anglais-Mathématiques
+# 🇬‍🇧 ♾️ Section européenne Anglais-Mathématiques (2nde, 1ère et Terminale)
 - La page de la [[SectionEuro]]
 
 

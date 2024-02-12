@@ -1,4 +1,9 @@
-# ♾️ Spécialité Mathématiques (Terminale)
+# ♾️ Spécialité Mathématiques (1ère)
+
+- Les [exercices sélectionnés sur le site chingmath.fr](https://dtremulot.chingmath.fr/) (Spé Maths)
+
+
+# ♾️ Spécialité Mathématiques (Terminale) et Mathématiques complémentaires
 
 - **Contenus mathématiques**
 	- [[Révisions d'été]]
@@ -13,6 +18,7 @@
 	- Aide pour la préparation des DS et la préparation au BAC
 		- Les **Savoir-faires par chapitre** : voir les documents à jour (annexes des chapitres) sur Pearltrees ou Pronote
 		- Les [énoncés et corrigés des exercices des séances de soutien](https://prism-floor-4b0.notion.site/S-ances-de-soutien-8c57fe126de24844b398b543d3d9b869?pvs=4)
+		- Les [exercices sélectionnés sur le site chingmath.fr](https://dtremulot.chingmath.fr/) (Spé Maths + **Maths complémentaires**)
 		- Les [annales du BAC du site de l'APMEP](https://www.apmep.fr/Annales-examens-Brevet-CAP-BEP-Bac-BTS-et-concours-niveau-Terminale)
 		- [[Quelques pistes par chapitre pour réviser en Spé Maths]]
 		- Les [exercices par thème du site ChingMath](https://chingmath.fr/) (ancien ChingAtome)
