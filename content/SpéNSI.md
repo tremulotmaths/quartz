@@ -18,6 +18,11 @@
 	- https://www.monlyceenumerique.fr/
 	- https://pixees.fr/informatiquelycee/n_site/nsi_prem.html
 	- https://pixees.fr/informatiquelycee/n_site/nsi_term.html
+- **Des livres permettant de travailler en autonomie**
+	- **En 1ère**
+		- ![](https://www.pearltrees.com/s/pic/or/-317062390?pearlId=577143684)![](https://download.pearltrees.com/s/pic/or/-317062391?pearlId=577143689)![](https://download.pearltrees.com/s/pic/or/-317062393?pearlId=577143685)![](https://download.pearltrees.com/s/pic/or/-317062395?pearlId=577143686)![](https://download.pearltrees.com/s/pic/or/-317062397?pearlId=577143690)
+	- **En Terminale**
+		- ![](https://download.pearltrees.com/s/pic/or/-317062389?pearlId=577143687)![](https://download.pearltrees.com/s/pic/or/-317062392?pearlId=577143682)![](https://download.pearltrees.com/s/pic/or/-317062394?pearlId=577143683)![](https://download.pearltrees.com/s/pic/or/-317062396?pearlId=577143688)![](https://download.pearltrees.com/s/pic/or/-317062398?pearlId=577143691)
 - **Grand Oral**
 	- Des pistes pour le [[Grand Oral]]
 
