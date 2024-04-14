@@ -6,80 +6,58 @@
 
 ## ♾️ Exercice 1
 
-### 1. a)
-#### ❓Question
-Or, avec les valeurs que je trouve je ne comprends pas comment faire. 
-
-Je me demande donc si j’ai bien réussi à calculer les valeurs car je me suis pas sûr de ma formule. 
-
-Ma question est donc comment calculer $u_1$ et $u_2$ car j’avoue que je ne comprends pas bien.
-
-####  💡 Réponse
-La définition de la suite est $\begin{cases}u_0=-1\\u_{n+1}=f(u_n)\text{ pour tout }n\in\mathbb{N}\end{cases}$
-
-Donc $u_1=f(u_0)=u_0^3\times \text{e}^{u_0}=(-1)^3\times \text{e}^{-1}=...$
-
-Il faut donner la valeur exacte et la valeur arrondie à $10^{-3}$ (i.e. 3 chiffres après la virgule).
-
-On recommencer pour $u_2$ : $u_2=f(u_1)=u_1^3\times \text{e}^{u_1}=...$
-
-C'est un peu moins "joli" quand on remplace $u_1$ par sa valeur exacte trouvée juste avant...mais tant pis ;)
-
-### 1. b)
+### A. 1. 
 #### ❓Question
 
 ####  💡 Réponse
 
-### 2. a)
+
+### A. 2. a) 
 #### ❓Question
 
 ####  💡 Réponse
 
-### 2. b)
+### A. 2. b)
+#### ❓Question
+À la question 2) petit b), on nous demande d'étudier la convexité de la fonction $g$, et je me demande si la dérivée seconde que j'ai trouvé est bonne.
+
+Je trouve $6x\times\text{e}^{x^2-1}+4x^3\times\text{e}^{x^2-1}$.
+
+Si la dérivée seconde est bonne, c'est alors que je ne trouve pas la solution pour étudier la convexité de cette fonction.
+####  💡 Réponse
+Ta dérivée seconde n'est pas la bonne...
+
+Tu devrais trouver (une fois l'expression factorisée...ce qu'il ne faut pas oublier de faire...) :
+
+$g''(x)=2x\left(3+2x^2\right)\text{e}^{x^2-1}$.
+
+
+### A. 2. c)
 #### ❓Question
 
 ####  💡 Réponse
 
-### 2. c)
+### A. 2. d)
 #### ❓Question
 
 ####  💡 Réponse
 
-### 2. d)
+### B. 1.
 #### ❓Question
 
 ####  💡 Réponse
 
-### 3. a)
+### B. 2. a)
 #### ❓Question
 
 ####  💡 Réponse
 
-### 3. b)
+### B. 2. b)
 #### ❓Question
 
 ####  💡 Réponse
 
-### 3. c)
-#### ❓Question
-Après avoir montrer que l’équation $g(x)=1$ admet une unique solution alpha, il faut démontrer que celle-ci est strictement supérieure à $\dfrac{1}{2}$ mais je ne sais pas comment m’y prendre. 
-
-Pourriez-vous m’éclairer?
-####  💡 Réponse
-Tu as dû obtenir que
-- $\alpha \in [0;+\infty[$
-- la fonction $g$ est croissante sur $[0;+\infty[$
-
-Donc montrer que $\alpha>\dfrac{1}{2}$ est équivalent à montrer que $g(\alpha)>g\left(\dfrac{1}{2}\right)$.
-
-Comme $g(\alpha)=1$, par définition de $\alpha$...je te laisse terminer et trouver ce qui te reste à calculer.
-
-### 4. a)
-#### ❓Question
-
-####  💡 Réponse
-
-### 4. b)
+### B. 2. c)
 #### ❓Question
 
 ####  💡 Réponse
@@ -87,22 +65,70 @@ Comme $g(\alpha)=1$, par définition de $\alpha$...je te laisse terminer et trou
 
 ## ♾️ Exercice 2
 
-### 1.
+### A. 1.
 #### ❓Question
 
 ####  💡 Réponse
 
-### 2. a)
+### A. 2.
 #### ❓Question
 
 ####  💡 Réponse
 
-### 2. b)
+### A. 3.
 #### ❓Question
 
 ####  💡 Réponse
 
-### 2. c)
+### B. 1.
+#### ❓Question
+
+####  💡 Réponse
+
+### B. 2. a)
+#### ❓Question
+
+####  💡 Réponse
+
+### B. 2. b)
+#### ❓Question
+
+####  💡 Réponse
+
+### B. 3.
+#### ❓Question
+
+####  💡 Réponse
+
+
+## ♾️ Exercice 3
+
+### 1. a)
+#### ❓Question
+
+####  💡 Réponse
+
+### 1. b)
+#### ❓Question
+
+####  💡 Réponse
+
+### 2.
+#### ❓Question
+
+####  💡 Réponse
+
+### 3.
+#### ❓Question
+
+####  💡 Réponse
+
+### 4. a)
+#### ❓Question
+
+####  💡 Réponse
+
+### 4. b)
 #### ❓Question
 
 ####  💡 Réponse
