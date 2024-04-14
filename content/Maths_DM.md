@@ -1,4 +1,4 @@
-# Aide pour le devoir maison de mathématiques en cours (DM 5)
+# Aide pour le devoir maison de mathématiques en cours (DM 7)
 ## ♾️ Remarques avant de démarrer
 - Mes réponses à vos questions sont là pour vous aider à trouver par vous même en vous rappelant ce qui vous manque.
 - Si une de mes réponses ne suffit pas à vous débloquer, vous revenez évidemment vers moi pour me le dire.
