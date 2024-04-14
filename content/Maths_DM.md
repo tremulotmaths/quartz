@@ -126,8 +126,19 @@ $z=\dfrac{-1}{25}x^2+21\Leftrightarrow 25z=-x^2+525\Leftrightarrow x^2=525-25z\L
 
 ### 1. b)
 #### ❓Question
+Nous bloquons sur la question 1. b) de l'exercice 3. 
+
+Nous ne comprenons pas d'où vient le $\dfrac{11}{60}$ et comment répondre à cette question.
 
 ####  💡 Réponse
+
+À la question précédente, vous avez dû obtenir 55 issues réalisant l'événement "$G=16$".
+
+Les événements élémentaires (ne contenant qu'une issue) étant tous équiprobables (les billets ont tous autant de chance d'être choisie : 1 chance sur 300).
+
+On en déduit :
+
+$\mathcal{P}(G=16)=\dfrac{55}{300}=...$ après simplification...
 
 ### 2.
 #### ❓Question
