@@ -27,7 +27,7 @@ Si la dérivée seconde est bonne, c'est alors que je ne trouve pas la solution 
 ####  💡 Réponse
 Ta dérivée seconde n'est pas la bonne...
 
-Tu devrais trouver (une fois l'expression factorisée...ce qu'il ne faut pas oublier de faire...) :
+Tu devrais trouver (une fois l'expression factorisée...) :
 
 $g''(x)=2x\left(3+2x^2\right)\text{e}^{x^2-1}$.
 
