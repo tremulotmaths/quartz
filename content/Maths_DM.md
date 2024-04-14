@@ -92,8 +92,24 @@ $g''(x)=2x\left(3+2x^2\right)\text{e}^{x^2-1}$.
 
 ### B. 2. b)
 #### ❓Question
+Je sèche pour la question 2.b) de la partie B de l’exercice 2 du DM. 
+
+Il faut calculer le volume $\mathcal{V}_2$. 
+
+Pour ce faire, on a besoin d’une expression en fonction de $z$ de la fonction $g$ et je ne vois pas comment déterminer une telle expression avec pour seule condition que $g(z) = x$ donc que $g(-1/25x^2 + 21) = x$ si je ne me trompe pas. 
+
+Pouvez-vous m’éclairer ?
 
 ####  💡 Réponse
+À la question précédente, tu as obtenu une expression de $z$ en fonction de $x$ pour décrire l'arc $\overset{\frown}{BC}$.
+
+Normalement, tu as trouvé $z=\dfrac{-1}{25}x^2+21$.
+
+Dans cette question, on a besoin d'exprimer $x$ en fonction de $z$.
+
+Mais...
+
+$z=\dfrac{-1}{25}x^2+21\Leftrightarrow 25z=-x^2+525\Leftrightarrow x^2=525-25z\Leftrightarrow x=...$, car...
 
 ### B. 3.
 #### ❓Question
