@@ -14,8 +14,20 @@
 
 ### A. 2. a) 
 #### ❓Question
+Nous nous comprenons pas la question 2. a) de la partie B de l’exercice 1. 
 
+On ne comprend pas comment trouver les valeurs $A_L$ et $A$ pour montrer que $\gamma_g=\dfrac{1}{\text{e}}$.
 ####  💡 Réponse
+
+$\gamma_g=\dfrac{A_g}{A}$ et $A_g$ est l'aire sous la courbe de $g$ sur l'intervalle $[0;1]$.
+
+Comme la fonction $g$ est positive sur $[0;1]$, $\displaystyle A_g=\int_{0}^{1}g(x)\text{d}x$.
+
+Vous avez donc besoin d'une primitive de $g$...
+
+Pour calculer $A$, qui est l'aire sous la droite $d$ sur l'intervalle $[0;1]$, il suffit de trouver la fonction dont la courbe représentative est la droite $d$...et de calculer une utre intégrale.
+
+Il n'y a plus ensuite qu'à effectuer le quotient de $A_g$ par $A$.
 
 ### A. 2. b)
 #### ❓Question
