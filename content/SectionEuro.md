@@ -14,7 +14,7 @@
 	- [[Graphs of the most common functions]]
 
 - Les vidéos des élèves de 1ère et Terminale de l'année 2024
-	- 
+	- [[Video about Math and Science - 2023 - 2024]]
 
 - **D'autres ressources**
 	- [[My links]]
