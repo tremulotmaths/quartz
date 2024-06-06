@@ -13,6 +13,9 @@
 	- [Binary numbers with playing cards](https://prism-floor-4b0.notion.site/Binary-Numbers-with-Playing-Cards-using-mathigon-org-092ffdd564bb4c1489c65d57300d4de2)
 	- [[Graphs of the most common functions]]
 
+- Les vidéos des élèves de 1ère et Terminale de l'année 2024
+	- 
+
 - **D'autres ressources**
 	- [[My links]]
 
