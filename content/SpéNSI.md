@@ -10,6 +10,7 @@
 	- Un [notebook de révision de Python](https://mybinder.org/v2/gh/tremulotmaths/notebookspython/master)
 	
 - Aide pour préparer les évaluations et le BAC
+	- Les [plannings et annales de toutes les épreuves (écrits et ECE)](https://toutmonexam.fr/)
 	- https://chinginfo.fr/classe/1re-nsi (pour les élèves de 1ère)
 	- https://chinginfo.fr/classe/tle-nsi (pour les élèves de Terminale)
 	- https://progalgo.fr/
