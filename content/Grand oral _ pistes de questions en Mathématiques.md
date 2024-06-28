@@ -25,6 +25,12 @@ Pour avoir des idées de thèmes/sujets liés à ces pistes de réflexion, je vo
 
 ---
 
+Voici une autre ressources donnant des pistes de Grand Oral liées aux mathématiques en fonctions des thèmes traités dans l'année de Terminale :
+
+https://www.mathoutils.fr/grand-oral-mathematiques/
+
+---
+
 **Voici maintenant d'autres pistes de sujets, avec tout d'abord des sujets ne concernant que les Mathématiques, puis des sujets liées à une autre spécialité.**
 
 ---
