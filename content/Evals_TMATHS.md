@@ -1,32 +1,32 @@
 # 🎆 Évaluations du groupe TMATHS... 🎆
 
 ## DS 1 👌
-- Date : Jeudi 21/09
-- Programme : Chapitre 1
+- Date : 
+- Programme : 
 
 ## DS 2 👌👌
-- Date : Jeudi 12/10
-- Programme : Chapitres 1 et 2
+- Date : 
+- Programme : 
 
 ## DS 3 👌👌👌
-- Date : Jeudi 16/11
-- Programme : Chapitres 1, 2 et 4
+- Date : 
+- Programme : 
 
 ## DS 4 👌👌👌👌
-- Date : Jeudi 14/12
-- Programme : Chapitres 1, 3, 5, 6
+- Date : 
+- Programme : 
 
 ## DS 5 👌👌👌👌👌
-- Date : Jeudi 18/01
-- Programme : Chapitres 1 à 7 (Priorité : suites et espace)
+- Date : 
+- Programme : 
 
 ## DS 6 👌👌👌👌👌👌
-- Date : Jeudi 08/02
-- Programme : Tout depuis le début (Priorité : suites et fonctions)
+- Date : 
+- Programme : 
 
 ## DS 7 🎆
-- Date : Bac Blanc semaine du 11/03
-- Programme : Tout depuis le début
+- Date : 
+- Programme : 
 
 ## DS 8 🎆🎆
 - Date : 

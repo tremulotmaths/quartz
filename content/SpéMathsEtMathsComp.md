@@ -17,7 +17,6 @@
 	- L'aide pour les exercices en chercher à la maison : [[Maths_exos]]
 	- Aide pour la préparation des DS et la préparation au BAC
 		- Les **Savoir-faires par chapitre** : voir les documents à jour (annexes des chapitres) sur Pearltrees ou Pronote
-		- Les [énoncés et corrigés des exercices des séances de soutien](https://prism-floor-4b0.notion.site/S-ances-de-soutien-8c57fe126de24844b398b543d3d9b869?pvs=4)
 		- Les [exercices sélectionnés sur le site chingmath.fr](https://dtremulot.chingmath.fr/) (Spé Maths + **Maths complémentaires**)
 		- Les [annales du BAC du site de l'APMEP](https://www.apmep.fr/Annales-examens-Brevet-CAP-BEP-Bac-BTS-et-concours-niveau-Terminale)
 		- Les [plannings et annales de toutes les épreuves (écrits et ECE)](https://toutmonexam.fr/)
@@ -27,7 +26,7 @@
 		- Le [parcours de révisions sur le site Sacado](https://sacado.xyz/group/eaa8618a)
 		- Le [cahier d'exercices de Sesamath](https://manuel.sesamath.net/numerique/?ouvrage=cah1ere_tle_spe_2022)
 	- Des ressources pour le [[Supérieur]]
-	- [Automatismes Spécialité Maths 2023-2024](https://prism-floor-4b0.notion.site/Sp-Maths-2023-2024-d1c98c3eafb74109a6f2da73b82e3023?pvs=4)
+	- [Automatismes Spécialité Maths 2024-2025](https://prism-floor-4b0.notion.site/Automatismes-2024-2025-7f8103de021040e1bdc5de600747f8b4?pvs=4)
 
 - **Contenus algorithmiques**
 	- Les [bases en Python](http://193.49.249.136:20180/~web/mpsi/cours.php)

@@ -5,8 +5,7 @@
 		- [Des exercices en ligne avec une aide et une correction](https://tremulotmaths.github.io/remiseaniveau/remiseaniveau.html)
 
 	- L'aide pour le devoir maison en cours : [[Maths_DM 2]]
-	- Aide pour la préparation des DS
-	- [Automatismes MES 2023-2024](https://prism-floor-4b0.notion.site/Maths-int-gr-es-l-enseignement-scientifique-58fb316950264a06b720ccb2bd1a0a6d?pvs=4)
+	- [Automatismes MES 2024-2025](https://prism-floor-4b0.notion.site/Automatismes-2024-2025-1baab997dd0e4f7387b2b7348521796b?pvs=4)
 	- Des rappels sur le [[Tableur et formules]]
 
 - **Contenus algorithmiques**
