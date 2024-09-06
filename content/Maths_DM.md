@@ -33,9 +33,13 @@
 
 ### 2. e) 
 #### ❓Question
-
+Je n'ai pas compris ce qu'il faut faire dans la question 2)e. Pourriez-vous m'éclairer ?
 ####  💡 Réponse
+Déterminer la position relative entre $\mathcal{C}$ et $\mathcal{T}$ signifie : déterminer les intervalles sur lesquels $\mathcal{C}$ est au-dessus de $\mathcal{T}$ et ceux où $\mathcal{C}$ est au-dessous de $\mathcal{T}$.
 
+En général, on détermine le signe de la différence entre les deux fonctions représentées par $\mathcal{C}$ et $\mathcal{T}$ pour cela.
+
+Vue la question précédente...je crois qu'on a la réponse sans effectuer de calcul supplémentaire.
 
 
 ## ♾️ Exercice 2
