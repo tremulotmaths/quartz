@@ -45,9 +45,9 @@ Vue la question précédente...je crois qu'on a la réponse sans effectuer de ca
 ## ♾️ Exercice 2
 
 #### ❓Question
-
+Comment fait-on pour vous rendre notre travail ?
 ####  💡 Réponse
-
+Une fois le travail terminé sur l'activité Capytale, il suffit de cliquer sur l'enveloppe en haut à gauche pour le rendre.
 
 ## ♾️ Exercice 3
 
