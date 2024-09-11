@@ -1,16 +1,16 @@
 # 🎆 Évaluations du groupe TMATHS... 🎆
 
 ## DS 1 👌
-- Date : 
-- Programme : 
+- Date : Jeudi 19/09
+- Programme : Chapitre 1 (en entier)
 
 ## DS 2 👌👌
-- Date : 
-- Programme : 
+- Date : Jeudi 10/10
+- Programme : Chapitres ...
 
 ## DS 3 👌👌👌
-- Date : 
-- Programme : 
+- Date : Jeudi 07/11
+- Programme : Chapitres ...
 
 ## DS 4 👌👌👌👌
 - Date : 
