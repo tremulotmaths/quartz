@@ -6,7 +6,7 @@
 
 ## DS 2 👌👌
 - Date : Jeudi 10/10
-- Programme : Chapitres ...
+- Programme : Chapitres 1, 2 et 3
 
 ## DS 3 👌👌👌
 - Date : Jeudi 07/11
