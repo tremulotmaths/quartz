@@ -19,7 +19,7 @@
 
 
 - **Dates des 🎆 évaluations** 🎆
-	- Vendredi 20/10
+	- Mardi 24/09
 	- 
 
 

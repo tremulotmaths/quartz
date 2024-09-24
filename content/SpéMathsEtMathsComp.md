@@ -17,11 +17,13 @@
 	- L'aide pour les exercices en chercher à la maison : [[Maths_exos]]
 	- Aide pour la préparation des DS et la préparation au BAC
 		- Les **Savoir-faires par chapitre** : voir les documents à jour (annexes des chapitres) sur Pearltrees ou Pronote
-		- Les [exercices sélectionnés sur le site chingmath.fr](https://dtremulot.chingmath.fr/) (Spé Maths + **Maths complémentaires**)
 		- Les [annales du BAC du site de l'APMEP](https://www.apmep.fr/Annales-examens-Brevet-CAP-BEP-Bac-BTS-et-concours-niveau-Terminale)
 		- Les [plannings et annales de toutes les épreuves (écrits et ECE)](https://toutmonexam.fr/)
 		- [[Quelques pistes par chapitre pour réviser en Spé Maths]]
-		- Les [exercices par thème du site ChingMath](https://chingmath.fr/) (ancien ChingAtome)
+	- **Des exercices en ligne pour (re)travailler les notions**
+		- Le [serveur WIMS pour la spécialité Mathématiques](https://wims.math.cnrs.fr/wims/wims.cgi?module=adm/class/classes&lang=fr&type=authparticipant&class=2453219&subclass=yes) (Demandez moi vos identifiants de connexion si vous avez oublié la méthode pour se connecter)
+		- Les [exercices sélectionnés sur le site chingmath.fr](https://dtremulot.chingmath.fr/) (Spé Maths + **Maths complémentaires**)
+		- Les [exercices par thème du site ChingMath](https://chingmath.fr/) (site complet)
 		- Les [cours et exercices du site Mathoutils.fr](https://www.mathoutils.fr/cours-et-exercices/terminale-generale/)
 		- Le [parcours de révisions sur le site Sacado](https://sacado.xyz/group/eaa8618a)
 		- Le [cahier d'exercices de Sesamath](https://manuel.sesamath.net/numerique/?ouvrage=cah1ere_tle_spe_2022)
