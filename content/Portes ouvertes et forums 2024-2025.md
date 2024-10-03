@@ -4,8 +4,8 @@
 	- Lycée Descartes à Tours : ...
 	- Lycée Vaucanson à Tours : ...
 	- Lycée Pothier à Orléans : ...
-- Pour trouver la journée Portes Ouvertes d'un établissement du supérieur (Université, lycée, CFA, etc.), vous pouvez utiliser ce moteur de recherche du site Onisep :
-https://www.onisep.fr/recherche?context=jpo&sf[common_niveau_enseignement_id][]=sup%C3%A9rieur&not_show_facets=common_niveau_enseignement_id
+- Pour trouver la journée Portes Ouvertes d'un établissement de la région Centre Val de Loire, vous pouvez utiliser cette [page](https://orientation.centre-valdeloire.fr/journees-portes-ouvertes-des-etablissements?redirected=true)
+- Pour trouver la journée Portes Ouvertes d'un établissement du supérieur dans toute la France (Université, lycée, CFA, etc.), vous pouvez utiliser ce [moteur de recherche du site Onisep](https://www.onisep.fr/recherche?context=jpo&sf[common_niveau_enseignement_id][]=sup%C3%A9rieur&not_show_facets=common_niveau_enseignement_id)
 
 ## Salons de l'Étudiant
 - **Salon de l’Étudiant d’Orléans** qui se tiendra le 7 décembre 2024 au Parc Expo CO’MET.** (https://salon-de-l-etudiant-orleans.salon.letudiant.fr/)
@@ -18,6 +18,8 @@ https://www.onisep.fr/recherche?context=jpo&sf[common_niveau_enseignement_id][]=
 - Pour consulter la liste des **salons Studyrama**, rendez-vous sur [cette page](https://www.studyrama.com/salons).
 
 ## Forums de l'orientation et des métiers 
+- La [nuit de l'orientation à BLOIS](https://orientation.centre-valdeloire.fr/notre-agenda/nuit-de-lorientation-blois) : 22 novembre 2024
+- [Toutes les "nuits de l'orientation"](https://orientation.centre-valdeloire.fr/actualites/nuits-de-lorientation?redirected=true)
 - 
 
 Toutes les informations sur ces forums : https://orientation.centre-valdeloire.fr/actualites/forums-de-lorientation-et-des-metiers
