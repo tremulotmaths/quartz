@@ -2,13 +2,16 @@
 
 ## Année de Terminale
 
--> Le site de [![Parcoursup](https://www.parcoursup.fr/images/LOGO/logo_parcoursup_long.svg)](https://www.parcoursup.fr/) avec notamment le [calendrier](https://www.parcoursup.fr/index.php?desc=calendrier) de la procédure.
+-> Le [calendrier de l'année de Terminale et du BAC](https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2025-341384)
+
+-> Le site de [![Parcoursup](https://www.parcoursup.fr/images/LOGO/logo_parcoursup_long.svg)](https://www.parcoursup.fr/) avec notamment le [calendrier](https://www.parcoursup.fr/index.php?desc=calendrier) de la procédure Parcoursup.
 
 -> Un [padlet de Mme Fargeaudou](https://padlet.com/fargeaudou_aurelie/t5wakvmjdxgd) qui réunit de nombreuses informations et qui est mis à jour régulièrement (avec notamment les dates des Portes Ouvertes)
 
+-> Des [MOOC d'aide l'orientation](https://www.fun-mooc.fr/fr/a-propos/mooc-d-orientation/) démarrant en septembre ou octobre (formations en ligne)
 
 ## Dates de salons et Portes Ouvertes
--> Les dates à ne pas râter ([[Portes ouvertes et forums 2023-2024]]) 
+-> Les dates à ne pas râter ([[Portes ouvertes et forums 2024-2025]]) 
 
 
 ## Préparations à certains concours
@@ -19,3 +22,7 @@ Le CNED propose des préparations aux concours suivants :
 ## Un diaporama de l'université de Tours donnant des informations très intéressantes (Réunion du 02/12/22)
 
 [Le diaporama](https://www.pearltrees.com/private/id56551350/item490228913?paccess=4635e1024ac.1d384cb1.ec8cd9b17738570e3594d55801286826)
+
+
+## Étudier à l'étranger
+[[Étudier à l'étranger]]
