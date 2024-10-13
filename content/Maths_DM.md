@@ -18,8 +18,13 @@
 
 ### 1. c)
 #### ❓Question
+Je ne comprends pas dans la question 1.b) de l'exercice 1 comment on peut écrire la formule à entrer dans `B3` sachant que $T_0$ est une donnée et que je ne vois pas comment je pourrais la calculer.
 
 ####  💡 Réponse
+C'est une erreur de ma part. C'est dans la cellule `C3` qu'il faut entrer une formule (à étirer ensuite) et non `B3`.
+
+Désolé 😕 
+
 
 ### 2. a) 
 #### ❓Question
