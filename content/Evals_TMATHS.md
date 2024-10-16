@@ -10,7 +10,7 @@
 
 ## DS 3 👌👌👌
 - Date : Jeudi 07/11
-- Programme : Chapitres ...
+- Programme : Chapitres 1, 2 et 3 (+4 sur un exercice bonus)
 
 ## DS 4 👌👌👌👌
 - Date : 
